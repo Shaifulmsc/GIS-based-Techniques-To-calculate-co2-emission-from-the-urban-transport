@@ -1,0 +1,4498 @@
+{
+  "head": {
+    "vars": [
+      "manufacturer_short_name", 
+      "manufacturer", 
+      "year", 
+      "registration", 
+      "average_mass_kg", 
+      "average_co2_emissions_g_km"
+    ]
+  }, 
+  "results": {
+    "bindings": [
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 126.92
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1382.56
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "OPEL"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 935499
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "ADAM OPEL AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 133.88
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1598.8
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 589855
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 133.87
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1237.01
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DACIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 251938
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILE DACIA SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 118.76
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1314.26
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 815936
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 119.21
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1321.76
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 974248
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 129.25
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1534.13
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BMW AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 640021
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BAYERISCHE MOTOREN WERKE AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 137.76
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1532.24
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 646067
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 115.29
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1136.56
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 975822
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP AUTOMOBILES SPA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 121.13
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1289.42
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD WERKE GMBH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1076887
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD-WERKE GMBH"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 125.76
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1253.96
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 146117
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA COMPANY"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.86
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1300.33
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 325603
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI MOTOR COMPANY"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 126.25
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1399.3
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 253706
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 133.73
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1339.67
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 170007
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA MOTOR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 132.13
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1347.39
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 389818
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN INTERNATIONAL SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.7
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1307.33
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1125141
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT SAS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.16
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1278.38
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 288629
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 127.87
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1311.28
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 420718
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA AUTO AS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 112.24
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1335.87
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 564633
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA MOTOR EUROPE NV SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 125.99
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1387.65
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1469419
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 134.49
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1662.43
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 204926
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO CAR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 145.932
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1446.21
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA UK"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 47840
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA OF THE UK MANUFACTURING LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 130.004
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1177.91
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2010
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 87204
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI CORPORATION LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.86
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1429.97
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "OPEL"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 952340
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "ADAM OPEL AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 127.0
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1578.0
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 617382
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 132.37
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1299.64
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DACIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 235104
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILE DACIA SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 112.74
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1320.01
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 742086
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 115.97
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1358.19
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 871476
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 129.24
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1569.17
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BMW AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 723340
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BAYERISCHE MOTOREN WERKE AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 132.13
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1569.61
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 626361
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 109.89
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1140.19
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 836642
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP AUTOMOBILES SPA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 119.02
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1324.19
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD WERKE GMBH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1004863
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD-WERKE GMBH"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 125.95
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1320.43
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 156787
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA COMPANY"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 118.97
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1297.12
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 364221
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI MOTOR COMPANY"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.05
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1353.33
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 279483
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 131.62
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1386.11
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 125369
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA MOTOR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 127.35
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1375.34
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 443514
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN INTERNATIONAL SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 114.82
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1293.02
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1006021
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT SAS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 114.13
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1288.76
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 293265
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.32
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1316.07
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 448821
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA AUTO AS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 109.29
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1331.32
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 523143
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA MOTOR EUROPE NV SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 121.74
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1415.14
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1574303
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 132.25
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1700.69
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 225600
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO CAR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 146.211
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1450.15
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA UK"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 37635
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA OF THE UK MANUFACTURING LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 118.469
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1162.71
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2011
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 96175
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI CORPORATION LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 119.71
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1455.62
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "OPEL"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 814342
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "ADAM OPEL AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.41
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1579.29
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 657097
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 125.13
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1299.01
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DACIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 232256
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILE DACIA SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 108.72
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1365.51
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 656601
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 107.65
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1381.03
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 773931
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 123.64
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1562.28
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BMW AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 762099
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BAYERISCHE MOTOREN WERKE AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 123.87
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1581.53
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 631783
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 109.84
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1128.8
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 686867
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP AUTOMOBILES SPA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 116.48
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1324.57
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD WERKE GMBH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 917753
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD-WERKE GMBH"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 124.25
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1403.59
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 161165
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA COMPANY"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 118.81
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1334.05
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 417010
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI MOTOR COMPANY"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 114.49
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1310.18
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 329478
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 128.79
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1360.93
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 113575
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA MOTOR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.25
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1397.75
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 423853
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN INTERNATIONAL SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 105.4
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1300.76
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 800688
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT SAS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 114.76
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1309.07
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 252174
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.03
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1298.81
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 460608
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA AUTO AS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 103.61
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1326.3
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 515587
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA MOTOR EUROPE NV SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 119.34
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1398.32
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1543537
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 121.94
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1694.44
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 204640
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO CAR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 139.093
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1510.38
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA UK"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 40779
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA OF THE UK MANUFACTURING LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 118.669
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1160.12
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2012
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 84045
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI CORPORATION LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.12
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1443.09
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "OPEL"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 804117
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "ADAM OPEL AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 121.88
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1554.03
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 650995
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 119.37
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1200.08
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DACIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 289150
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILE DACIA SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 106.86
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1356.14
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 587544
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 105.65
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1348.68
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 723688
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 123.54
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1560.0
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BMW AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 758186
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BAYERISCHE MOTOREN WERKE AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 119.83
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1577.38
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 661356
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 110.62
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1145.15
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 646554
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP AUTOMOBILES SPA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 111.51
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1341.8
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD WERKE GMBH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 891562
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD-WERKE GMBH"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 124.19
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1405.47
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 135379
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "GM KOREA COMPANY"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 130.55
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1426.46
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI CZECH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 220348
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI MOTOR MANUFACTURING CZECH SRO"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 164.62
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2049.3
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "JAGUAR LAND ROVER LIMITED"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 131530
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "JAGUAR LAND ROVER LIMITED"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 117.62
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1320.21
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 285340
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 126.28
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1421.75
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 133183
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA MOTOR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 115.71
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1399.14
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 411702
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN INTERNATIONAL SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 96.38
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1261.83
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 793063
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT SAS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 111.32
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1231.39
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 280310
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 115.92
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1267.54
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 480748
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA AUTO AS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 102.19
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1314.81
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 513116
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA MOTOR EUROPE NV SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 115.74
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1381.67
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1486282
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 107.01
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1700.48
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 203165
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO CAR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 145.122
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1544.57
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA UK"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 53052
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA OF THE UK MANUFACTURING LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 112.343
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1108.38
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI ASSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 62241
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI ASSAN OTOMOTIV SANAYI VE"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 140.012
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1424.13
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA SLOVAKIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 53232
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS SLOVAKIA SRO"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 125.554
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1151.0
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2013
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 98295
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI CORPORATION LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.425
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1405.22
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "OPEL"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 860970
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "ADAM OPEL AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 121.362
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1557.98
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 683782
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 119.789
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1206.35
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DACIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 372685
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILE DACIA SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 103.142
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1268.32
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 594263
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 102.376
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1270.2
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 766531
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.841
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1578.69
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BMW AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 791579
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BAYERISCHE MOTOREN WERKE AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 118.152
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1579.0
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 685986
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 110.682
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1142.68
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 666763
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP AUTOMOBILES SPA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 113.657
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1315.84
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD WERKE GMBH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 939565
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD-WERKE GMBH"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 124.614
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1436.63
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA UK"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 111222
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA OF THE UK MANUFACTURING LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 110.465
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1069.51
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI ASSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120988
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI ASSAN OTOMOTIV SANAYI VE"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 133.734
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1440.45
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI CZECH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 200750
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI MOTOR MANUFACTURING CZECH SRO"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 165.435
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2043.66
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "JAGUAR LAND ROVER LIMITED"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 140264
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "JAGUAR LAND ROVER LIMITED"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 115.439
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1293.3
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 216352
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 133.612
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1448.98
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA SLOVAKIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 130606
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS SLOVAKIA SRO"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 117.932
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1147.29
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 108700
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI CORPORATION LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 121.968
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1407.43
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 159721
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA MOTOR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 103.312
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1350.8
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 469215
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN INTERNATIONAL SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 98.779
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1250.06
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 871328
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT SAS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 110.877
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1241.57
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 316546
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 114.628
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1275.52
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 546145
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA AUTO AS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 102.286
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1309.55
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 538723
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA MOTOR EUROPE NV SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 113.03
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1383.64
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1549656
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 112.433
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1675.85
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2014
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 234160
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO CAR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 103.659
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1260.49
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 857467
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES PEUGEOT"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 105.304
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1263.09
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 984981
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "RENAULT SAS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 105.713
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1243.79
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 618627
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILES CITROEN"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 108.264
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1314.81
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 585335
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "TOYOTA MOTOR EUROPE NV SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 113.524
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1078.87
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI ASSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 155201
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI ASSAN OTOMOTIV SANAYI VE TICARET AS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 113.778
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1366.1
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 548778
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "NISSAN INTERNATIONAL SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 115.511
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1274.68
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 585559
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SKODA AUTO AS"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 116.3
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1158.63
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FIAT GROUP"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 703654
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FCA ITALY SPA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 116.577
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1247.79
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 332988
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "SEAT SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 117.701
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1332.69
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD WERKE GMBH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 993383
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "FORD-WERKE GMBH"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 118.259
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1390.9
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1655413
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLKSWAGEN AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.295
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1309.37
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 228179
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.485
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1160.99
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 125532
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAGYAR SUZUKI CORPORATION LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 120.67
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1703.46
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 266351
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "VOLVO CAR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 122.694
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1204.33
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DACIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 378487
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUTOMOBILE DACIA SA"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 124.079
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1560.62
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 800325
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "DAIMLER AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 124.883
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1568.67
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BMW AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 887020
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "BAYERISCHE MOTOREN WERKE AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 126.245
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1589.53
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 717955
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "AUDI AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 126.775
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1387.2
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "OPEL"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 915125
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "ADAM OPEL AG"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 126.779
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1362.1
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 194754
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "MAZDA MOTOR CORPORATION"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 133.387
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1452.94
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA UK"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 104595
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HONDA OF THE UK MANUFACTURING LTD"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 134.525
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1453.8
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI CZECH"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 236932
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "HYUNDAI MOTOR MANUFACTURING CZECH SRO"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 137.69
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1438.48
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA SLOVAKIA"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 151884
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "KIA MOTORS SLOVAKIA SRO"
+        }
+      }, 
+      {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 164.029
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1996.54
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "JAGUAR LAND ROVER LIMITED"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 2015
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 172792
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "JAGUAR LAND ROVER LIMITED"
+        }
+      },
+	  {
+        "average_co2_emissions_g_km": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value":  0.094
+
+        }, 
+        "average_mass_kg": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal", 
+          "value": 1996.54
+        }, 
+        "manufacturer_short_name": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "Motorcycle"
+        }, 
+        "year": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal",
+          "value": 2018
+        }, 
+        "registration": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#double", 
+          "type": "typed-literal",
+		  "value": 2020
+         
+        }, 
+        "manufacturer": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#string", 
+          "type": "typed-literal", 
+          "value": "Motorcycle"
+        }
+      }
+    ]
+  }
+}
